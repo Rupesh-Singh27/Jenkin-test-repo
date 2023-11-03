@@ -3,6 +3,7 @@ package com.atm;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class SalaryAccount {
 	
 	private Scanner scan;
